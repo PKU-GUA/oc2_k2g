@@ -1,0 +1,7 @@
+# Python 3.10.9
+
+pyside2==5.15.2.1
+pywin32==305
+pynput==1.7.6
+qt-material==2.14
+vgamepad==0.0.8
